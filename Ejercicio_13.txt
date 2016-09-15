@@ -1,0 +1,4 @@
+Diseñe un programa que exprese la capacidad de un disco duro en megabytes, kilobytes y bytes, conociendo la capacidad del disco en Gigabytes.
+
+
+
